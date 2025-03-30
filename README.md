@@ -1,6 +1,6 @@
 # Vehicle-to-Vehicle (V2V) Chat System
 
-![V2V Logo](v2v_logo.png)
+![V2V Logo](v2v_logom.png)
 
 A decentralized communication system designed for vehicles to send short messages or alerts to nearby drivers (e.g., "accident ahead" or "slow down"). This implementation uses MQTT for peer-to-peer networking and provides a simple text/emoji-based interface. It can be extended to integrate with vehicle HUDs (heads-up displays) for real-time notifications.
 
